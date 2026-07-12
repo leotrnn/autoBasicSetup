@@ -1,4 +1,4 @@
-#!/bin/bash
+    #!/bin/bash
 
 # ------------------------------
 # Script LAMP avec VirtualHost perso
@@ -29,6 +29,6 @@ sudo mysql_secure_installation
 # ------------------------------
 echo ""
 echo "Setup terminé !"
-echo "Ton site est accessible ici : http://prog-web.local"
+echo "Ton site est accessible ici : localhost"
 echo "Tu peux maintenant créer tes fichiers PHP directement dans /var/www/html"
 echo "index.php avec phpinfo() a été créé automatiquement."
