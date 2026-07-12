@@ -12,6 +12,6 @@ en gros c'est un script qui automatisent certain trucs qui clc parce qu'on a la 
 
 ça lance juste WSL et les services Apache2 et MySQL en demandant le mot de passe
 
-#startOther.sh
+# startOther.sh
 
 ça ouvre WSL dans le dossier racine de ou vous programmez, faut modifier le chemin d'accès par contre sinon ça marche pas
